@@ -1,0 +1,37 @@
+{
+  "family": [
+    {
+      "name": "FirstA LastA",
+      "age": 4,
+      "gender": "female",
+      "skills": [
+        "burpingA",
+        "fartingA",
+        "inappropriate shoutingA",
+        "tantrumsA"
+      ]
+    },
+    {
+      "name": "FirstB LastB",
+      "age": 34,
+      "gender": "male",
+      "skills": [
+        "burpingB",
+        "fartingB",
+        "inappropriate shoutingB",
+        "tantrumsB"
+      ]
+    },
+    {
+      "name": "FirstC LastC",
+      "age": 34,
+      "gender": "female",
+      "skills": [
+        "burpingC",
+        "fartingC",
+        "inappropriate shoutingC",
+        "tantrumsC"
+      ]
+    }
+  ]
+}
